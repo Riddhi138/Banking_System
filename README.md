@@ -1,4 +1,5 @@
-The **Bank Management System** is a comprehensive ATM simulation application built in Java that provides users with essential banking operations. This system allows users to create accounts, perform transactions, and manage their banking activities through an intuitive graphical user interface.
+The **Bank Management System** is a comprehensive ATM simulation application built in Java that provides users with essential banking operations.   <br>
+This system allows users to create accounts, perform transactions, and manage their banking activities through an intuitive graphical user interface.
 
 ## ✨ Features
 
@@ -48,7 +49,7 @@ Bank Management System
 
 ### Database: `bank_management_system`
 
-#### Tables Structure:
+#### Tables Structure: Need to create before starting code writing
 
 1. **🔑 login**
    - Stores user login credentials and authentication data
@@ -123,8 +124,24 @@ Bank Management System
    - All transactions are recorded in the bank table
 
 ## 📸 Screenshots
-
-
+1.Login Page <br>
+![Login](screenshot/Login.PNG)   <br>
+2.Transaction Page  <br>
+![Transaction](screenshot/Transaction.PNG)  <br>
+3.Deposit Page  <br>
+![Deposit](screenshot/Deposit.PNG)  <br>
+4.MiniStatement  <br>
+![MiniStatement](screenshot/MiniStatement.PNG)  <br>
+5.Bank Balance Enquiry  <br>
+![BalanceEnquiry](screenshot/BalanceEnquiry.PNG)  <br>
+6. Fast Cash Page  <br>
+![FastCash](screenshot/FastCash.PNG)   <br>
+7.Pin Change Page  <br>
+![PinChange](screenshot/PinChange.PNG)   <br>
+8. Three Sign-up Form Page   <br>
+![Signup](screenshot/SignUp.PNG)   <br>
+![SignUpTwo](screenshot/SignUpTwo.PNG)   <br>
+![SignUpThree](screenshot/SignUpThree.PNG)   <br>
 
 
 ## 🛠️ Technologies Used
