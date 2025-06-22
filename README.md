@@ -124,11 +124,8 @@ Bank Management System
 
 ## 📸 Screenshots
 
-*Add screenshots of your application here*
 
-```
-🖼️ Login Screen → Sign Up Forms → Transaction Menu → Individual Operations
-```
+
 
 ## 🛠️ Technologies Used
 
