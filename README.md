@@ -1,6 +1,6 @@
 # 💰 Bank Management System
 The **Bank Management System** is a comprehensive ATM simulation application built in Java that provides users with essential banking operations.   <br>
-This system allows users to create accounts, perform transactions, and manage their banking activities through an intuitive graphical user interface.
+This system allows users to create accounts, perform transactions, and manage their banking activities through an intuitive graphical user interface using concepts of Java Swing.
 
 ## ✨ Features
 
